@@ -1,0 +1,91 @@
+===== HISTORIAL DE BATALLA =====
+[Turno 1] Kirchner → utiliza ATACAR
+	Jugador: VIDA 100 | ENERGÍA 75
+	IA: VIDA 78 | ENERGÍA 100
+-----------------------------------
+[Turno 1] Big Daddy → utiliza ATAQUE
+	Jugador: VIDA 78 | ENERGÍA 75
+	IA: VIDA 78 | ENERGÍA 75
+-----------------------------------
+[Turno 2] Kirchner → utiliza CURAR
+	Jugador: VIDA 88 | ENERGÍA 35
+	IA: VIDA 78 | ENERGÍA 75
+-----------------------------------
+[Turno 2] Big Daddy → utiliza ATAQUE
+	Jugador: VIDA 78 | ENERGÍA 50
+	IA: VIDA 88 | ENERGÍA 35
+-----------------------------------
+[Turno 3] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 88 | ENERGÍA 61
+	IA: VIDA 78 | ENERGÍA 50
+-----------------------------------
+[Turno 3] Big Daddy → utiliza ATAQUE
+	Jugador: VIDA 78 | ENERGÍA 25
+	IA: VIDA 66 | ENERGÍA 61
+-----------------------------------
+[Turno 4] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 66 | ENERGÍA 76
+	IA: VIDA 78 | ENERGÍA 25
+-----------------------------------
+[Turno 4] Big Daddy → utiliza SALTAR TURNO
+	Jugador: VIDA 78 | ENERGÍA 55
+	IA: VIDA 66 | ENERGÍA 76
+-----------------------------------
+[Turno 5] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 66 | ENERGÍA 85
+	IA: VIDA 78 | ENERGÍA 55
+-----------------------------------
+[Turno 5] Big Daddy → utiliza ATAQUE
+	Jugador: VIDA 78 | ENERGÍA 30
+	IA: VIDA 44 | ENERGÍA 85
+-----------------------------------
+[Turno 6] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 44 | ENERGÍA 91
+	IA: VIDA 78 | ENERGÍA 30
+-----------------------------------
+[Turno 6] Big Daddy → utiliza SALTAR TURNO
+	Jugador: VIDA 78 | ENERGÍA 58
+	IA: VIDA 44 | ENERGÍA 91
+-----------------------------------
+[Turno 7] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 44 | ENERGÍA 94
+	IA: VIDA 78 | ENERGÍA 58
+-----------------------------------
+[Turno 7] Big Daddy → utiliza ATAQUE
+	Jugador: VIDA 78 | ENERGÍA 33
+	IA: VIDA 22 | ENERGÍA 94
+-----------------------------------
+[Turno 8] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 22 | ENERGÍA 96
+	IA: VIDA 78 | ENERGÍA 33
+-----------------------------------
+[Turno 8] Big Daddy → utiliza DEFENDER
+	Jugador: VIDA 78 | ENERGÍA 18
+	IA: VIDA 22 | ENERGÍA 96
+-----------------------------------
+[Turno 9] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 22 | ENERGÍA 97
+	IA: VIDA 78 | ENERGÍA 18
+-----------------------------------
+[Turno 9] Big Daddy → utiliza DEFENDER
+	Jugador: VIDA 78 | ENERGÍA 3
+	IA: VIDA 22 | ENERGÍA 97
+-----------------------------------
+[Turno 10] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 22 | ENERGÍA 98
+	IA: VIDA 78 | ENERGÍA 3
+-----------------------------------
+[Turno 10] Big Daddy → utiliza SALTAR TURNO
+	Jugador: VIDA 78 | ENERGÍA 41
+	IA: VIDA 22 | ENERGÍA 98
+-----------------------------------
+[Turno 11] Kirchner → utiliza SALTAR TURNO
+	Jugador: VIDA 22 | ENERGÍA 98
+	IA: VIDA 78 | ENERGÍA 41
+-----------------------------------
+[Turno 11] Big Daddy → utiliza ATAQUE
+	Jugador: VIDA 78 | ENERGÍA 16
+	IA: VIDA 0 | ENERGÍA 98
+-----------------------------------
+=================================
+
