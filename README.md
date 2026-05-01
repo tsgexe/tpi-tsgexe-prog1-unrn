@@ -16,3 +16,5 @@ Developed entirely in C, this project demonstrates practical application of foun
 * Custom data structures (`structs`) for game logic and entities.
 * Dynamic memory allocation.
 * File handling for data persistence.
+
+Feel free to clone the repository, compile it and test everything! Any advices are always welcomed.
